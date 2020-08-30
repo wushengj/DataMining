@@ -2,6 +2,7 @@
 
 This is an Python implementation of Bradley-Fayyad-Reina (BFR)[^1] algorithm using Spark. 
 
+## How to execute
 Python command: $ python3 bfr\.py <input_path> <n_cluster> <out_file1> <out_file2>
 
 Input file format: index, axis, ...
